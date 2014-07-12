@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/isdev/!svn/ver/92271/DotMac/SystemStatus/trunk/web/client/sst/js/lib/jquery-ui-1.10.3/external
+END
+jquery.mousewheel.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/isdev/!svn/ver/92271/DotMac/SystemStatus/trunk/web/client/sst/js/lib/jquery-ui-1.10.3/external/jquery.mousewheel.js
+END
+qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/isdev/!svn/ver/92271/DotMac/SystemStatus/trunk/web/client/sst/js/lib/jquery-ui-1.10.3/external/qunit.js
+END
+globalize.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/isdev/!svn/ver/92271/DotMac/SystemStatus/trunk/web/client/sst/js/lib/jquery-ui-1.10.3/external/globalize.js
+END
+globalize.culture.de-DE.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/isdev/!svn/ver/92271/DotMac/SystemStatus/trunk/web/client/sst/js/lib/jquery-ui-1.10.3/external/globalize.culture.de-DE.js
+END
+jshint.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/isdev/!svn/ver/92271/DotMac/SystemStatus/trunk/web/client/sst/js/lib/jquery-ui-1.10.3/external/jshint.js
+END
+globalize.culture.ja-JP.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/isdev/!svn/ver/92271/DotMac/SystemStatus/trunk/web/client/sst/js/lib/jquery-ui-1.10.3/external/globalize.culture.ja-JP.js
+END
+qunit.css
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/isdev/!svn/ver/92271/DotMac/SystemStatus/trunk/web/client/sst/js/lib/jquery-ui-1.10.3/external/qunit.css
+END
